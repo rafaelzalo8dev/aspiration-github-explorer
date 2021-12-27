@@ -1,16 +1,16 @@
 # Aspiration Github Topic Explorer
 
-Developer: Rafael Zavala
-Mail: rafael.zavala@encora.mx
-Github: rafaelzalo8dev
+- Developer: Rafael Zavala
+- Mail: rafael.zavala@encora.mx
+- Github: rafaelzalo8dev
 
 # Tech Stack
 
-[Create React App](https://github.com/facebook/create-react-app).
-[Material ui components](https://mui.com).
-[Apollo Graphql Client](https://www.apollographql.com/docs/react).
-[Styled Components](https://styled-components.com).
-[React Router DOM](https://www.npmjs.com/package/react-router-dom).
+- [Create React App](https://github.com/facebook/create-react-app).
+- [Material ui components](https://mui.com).
+- [Apollo Graphql Client](https://www.apollographql.com/docs/react).
+- [Styled Components](https://styled-components.com).
+- [React Router DOM](https://www.npmjs.com/package/react-router-dom).
 
 ## Scripts to run this project
 
