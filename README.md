@@ -3,6 +3,7 @@
 - Developer: Rafael Zavala
 - Mail: rafael.zavala@encora.mx
 - Github: rafaelzalo8dev
+- Check [Dev Notes](https://github.com/rafaelzalo8dev/aspiration-github-explorer/blob/master/Dev%20Notes.md) and [Future Improvements](https://github.com/rafaelzalo8dev/aspiration-github-explorer/blob/master/Future%20Improvements.md) sections!
 
 # Tech Stack
 
